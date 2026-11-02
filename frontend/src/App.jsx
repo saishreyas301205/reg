@@ -5,7 +5,6 @@ import About from './components/About'
 import Architecture from './components/Architecture'
 import Features from './components/Features'
 import Pipelines from './components/Pipelines'
-import Team from './components/Team'
 import Footer from './components/Footer'
 import Dashboard from './pages/Dashboard'
 import DocumentExplorer from './pages/DocumentExplorer'
@@ -18,7 +17,6 @@ function Home() {
       <Features />
       <Architecture />
       <Pipelines />
-      <Team />
       <Footer />
     </>
   )
